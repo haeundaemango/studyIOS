@@ -1,0 +1,12 @@
+Things to be reviewed
+
+1. About SceneDelegate.swift
+	this should come after learning AppDelegate.swift
+	
+2. about the extension function anchor()
+	should learn how to design programmically
+
+3. defining within initializing
+	ex) let button: UIButton = { ... }()
+	
+
